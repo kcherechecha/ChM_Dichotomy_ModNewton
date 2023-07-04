@@ -1,0 +1,6 @@
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/bin/Debug/DichotomyChmLab.exe
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/bin/Debug/DichotomyChmLab.pdb
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/obj/Debug/DichotomyChmLab.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/obj/Debug/DichotomyChmLab.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/obj/Debug/DichotomyChmLab.exe
+/Users/kcherechecha/RiderProjects/DichotomyChmLab/DichotomyChmLab/obj/Debug/DichotomyChmLab.pdb
